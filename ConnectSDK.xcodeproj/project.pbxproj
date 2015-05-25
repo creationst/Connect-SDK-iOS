@@ -1745,6 +1745,7 @@
 					"$(PROJECT_DIR)/modules/google-cast",
 					"$(PROJECT_DIR)/core/Frameworks/OCMock",
 					"$(PROJECT_DIR)/core/Frameworks/OHHTTPStubs",
+					"$(PROJECT_DIR)/../../frameWorks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "core/ConnectSDK-Prefix.pch";
@@ -1772,6 +1773,7 @@
 					"$(PROJECT_DIR)/modules/google-cast",
 					"$(PROJECT_DIR)/core/Frameworks/OCMock",
 					"$(PROJECT_DIR)/core/Frameworks/OHHTTPStubs",
+					"$(PROJECT_DIR)/../../frameWorks",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "core/ConnectSDK-Prefix.pch";
